@@ -1,3 +1,3 @@
-# 图片资源包
+# SVG 资源清单
 
-此目录按站点原有相对结构收录所有 PNG、JPG、JPEG 与 WebP 图片，便于单独归档或替换素材。
+当前版本没有独立 SVG 文件。材质展示中的 SVG 是浏览器运行时生成的内联结构，素材来自 `site/materials/material-sheet.webp`，无需额外上传 SVG。
